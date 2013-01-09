@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="chameleonos/android_device_asus_grouper" path="device/asus/grouper" remote="bitbucket" revision="jellybean" />
-  <project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="jellybean" />
+  <project name="chameleonos/android_device_asus_grouper" path="device/asus/grouper" remote="bitbucket" revision="jellybean-mr1" />
+  <project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="cm-10.1" />
 </manifest>
