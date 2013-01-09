@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="chameleonos/android_device_samsung_toro" path="device/samsung/toro" remote="bitbucket" revision="jellybean-mr1" />
+  <project name="ChameleonOS/android_device_samsung_toro" path="device/samsung/toro" remote="github" revision="jellybean-mr1" />
+  <project name="ChameleonOS/android_vendor_samsung_toro" path="vendor/samsung/toro" remote="github" revision="jellybean-mr1" />
   <project name="CyanogenMod/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="cm-10.1" />
   <project name="CyanogenMod/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="cm-10.1" />
 </manifest>
