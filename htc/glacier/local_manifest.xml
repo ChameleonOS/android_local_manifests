@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device specific projects will go here -->
-  <project name="chameleonos/android_device_htc_glacier" path="device/htc/glacier" remote="bitbucket" revision="jellybean" />
-  <project name="chameleonos/android_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="bitbucket" revision="jellybean" />
-  <project name="elginsk8r/android_device_htc_common" path="device/htc/common" revision="jellybean" />
+  <project name="ChameleonOS/android_device_htc_glacier" path="device/htc/glacier" remote="github" revision="jellybean" />
+  <project name="ChameleonOS/android_device_htc_msm7x30-common" path="device/htc/msm7x30-common" remote="github" revision="jellybean" />
+  <project name="ChameleonOS/android_vendor_htc_glacier" path="vendor/htc/glacier" remote="github" revision="jellybean" />
+   <project name="elginsk8r/android_device_htc_common" path="device/htc/common" revision="jellybean" />
   <project name="elginsk8r/android_device_htc_7x30-recovery" path="device/htc/7x30-recovery" />
   <project name="elginsk8r/android_kernel_htc_msm7x30-common" path="kernel/htc/msm7x30-common" revision="jellybean" />
 
