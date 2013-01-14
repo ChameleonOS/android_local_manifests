@@ -2,6 +2,6 @@
 <manifest>
   <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="jellybean" />
-  <project name="chameleonos/android_device_htc_evita" path="device/htc/evita" remote="bitbucket" revision="jellybean" />
+  <project name="ChameleonOS/android_device_htc_evita" path="device/htc/evita" remote="github" revision="jellybean" />
   <project name="ChameleonOS/android_device_htc_evita" path="vendor/htc/evita" remote="github" revision="jellybean" />
 </manifest>
