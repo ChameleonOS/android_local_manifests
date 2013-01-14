@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="chameleonos/android_device_htc_ville" path="device/htc/ville" remote="bitbucket" revision="jellybean" />
+  <project name="ChameleonOS/android_device_htc_ville" path="device/htc/ville" remote="github" revision="jellybean" />
+  <project name="ChameleonOS/android_device_htc_ville" path="vendor/htc/ville" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="jellybean" />
 </manifest>
