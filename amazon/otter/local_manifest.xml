@@ -28,7 +28,7 @@
 
   <!-- local projects -->
   <project path="device/amazon/otter" name="chameleonos/android_device_amazon_otter" remote="bitbucket" revision="jellybean" />
-  <project path="kernel/amazon/otter" name="KFire-Android/kernel_omap" revision="4AI1.7" />
+  <project path="kernel/amazon/otter" name="KFire-Android/kernel_omap_otter-common" revision="4AI1.7" />
   <project path="vendor/amazon/otter" name="KFire-Android/android_vendor_amazon_otter" revision="jb" />
 
 </manifest>
