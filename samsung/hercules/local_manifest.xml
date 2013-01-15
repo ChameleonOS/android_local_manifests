@@ -4,5 +4,5 @@
   <project name="CyanogenMod/android_kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_celox-common" path="device/samsung/celox-common" remote="github" revision="jellybean" />
-  <project name="ChameleonOS/vendor_samsung_hercules" path="vendor/samsung/hercules" remote="github" revision="jellybean" />
+  <project name="ChameleonOS/android_vendor_samsung_hercules" path="vendor/samsung/hercules" remote="github" revision="jellybean" />
 </manifest>
